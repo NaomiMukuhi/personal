@@ -79,7 +79,7 @@
     text-align: center;
     color: #ffffff;
     border: 0;
-    background-image: linear-gradient(to right bottom, #ffa41b, #ff5151);
+    background-image: linear-gradient(45deg, #ffa41b, #ff5151);
     transition: all .5s;
 }
 
