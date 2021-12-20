@@ -3,16 +3,14 @@ body {
     font-family: papyrus;
     background: linear-gradient(45deg, #24006b, #f42f8c);
     text-align: center;
-    background-image: url('https://cache.desktopnexus.com/thumbseg/897/897648-bigthumbnail.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
+   background: linear-gradient(180deg, brown, pink);
     font-size: xx-large;
     font-weight: bolder;
   }
   
   .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: blue;
   }
   
   .topnav a {
@@ -25,11 +23,14 @@ body {
   }
   
   .topnav a:hover {
-    background-color: #ddd;
+    background-color: crimson;
     color: black;
   }
   
   .topnav a.active {
     background-color: #04AA6D;
     color: white;
+  }
+  fieldset {
+    background: linear-gradient(45deg, crimson, yellow);
   }
