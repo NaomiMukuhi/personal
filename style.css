@@ -103,3 +103,6 @@ body{
   .card:hover .face.face2 h2{
     font-size: 2em;
   }
+  fieldset {
+    background: linear-gradient( 45deg, red, gold);
+  }
